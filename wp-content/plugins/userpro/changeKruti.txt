@@ -1,0 +1,7 @@
+Changes in userpro plugin :
+
+file : /zinepak/wp-content/plugins/userpro/functions/custom-alerts.php
+line : 19-22
+
+file : /zinepak/wp-content/theme/zerif-lite/template_chat.php
+line : 196-203

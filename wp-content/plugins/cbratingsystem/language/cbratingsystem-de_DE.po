@@ -1,0 +1,1860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Multi Criteria Rating & Review System v3.5.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-03-23 04:59:15+0000\n"
+"Last-Translator: Matthias Siebler <matthias.siebler@gmail.com>\n"
+"Language-Team: Matthias Siebler <matthias.siebler@me.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: cbratinglogreportoutput.php:185
+#@ cbratingsystem
+msgid "Post"
+msgstr "Beitrag"
+
+#: cbratinglogreportoutput.php:186
+#@ cbratingsystem
+msgid "Post Title"
+msgstr "Beitragstitel"
+
+#: cbratinglogreportoutput.php:187
+#@ cbratingsystem
+msgid "Form Id"
+msgstr "Formular-ID"
+
+#: cbratinglogreportoutput.php:188
+#: cbratingsystem.php:553
+#@ cbratingsystem
+msgid "Average Rating"
+msgstr "durchschn. Bewertungen"
+
+#: cbratinglogreportoutput.php:189
+#@ cbratingsystem
+msgid "Criteria Rating"
+msgstr "Bewertungskriterien"
+
+#: cbratinglogreportoutput.php:190
+#@ cbratingsystem
+msgid "Rating Count"
+msgstr "Bewertungszahl"
+
+#: cbratinglogreportoutput.php:202
+#: class.CBRatingSystemAdminReport.php:455
+#: class.CBRatingSystemAdminReport.php:613
+#@ cbratingsystem
+msgid "Delete"
+msgstr "Löschen"
+
+#: cbratingsystem.php:479
+#@ cbratingsystem
+msgid "characters"
+msgstr "Buchstaben"
+
+#: cbratingsystem.php:579
+#@ cbratingsystem
+msgid "No average rating"
+msgstr "Keine durchschn. Bewertung"
+
+#: cbratingsystem.php:707
+#: class.CBRatingSystemWidget.php:412
+#@ cbratingsystem
+msgid "Top Rated Users"
+msgstr "Top bewertete Benutzer"
+
+#: cbratingsystem.php:751
+#: cbratingsystem.php:853
+#: class.CBRatingSystemWidget.php:99
+#: class.CBRatingSystemWidget.php:394
+#@ cbratingsystem
+msgid "No Results found"
+msgstr "Keine Ergebnisse gefunden"
+
+#: cbratingsystem.php:1212
+#@ cbratingsystem
+msgid "Criteria 1"
+msgstr "Kriterium 1"
+
+#: cbratingsystem.php:1215
+#: cbratingsystem.php:1229
+#: cbratingsystem.php:1243
+#: class.CBRatingSystemAdmin.php:1172
+#@ cbratingsystem
+msgid "Worst"
+msgstr "Mies"
+
+#: cbratingsystem.php:1216
+#: cbratingsystem.php:1230
+#: cbratingsystem.php:1244
+#: class.CBRatingSystemAdmin.php:1172
+#@ cbratingsystem
+msgid "Bad"
+msgstr "Schlecht"
+
+#: cbratingsystem.php:1217
+#: cbratingsystem.php:1231
+#: cbratingsystem.php:1245
+#: class.CBRatingSystemAdmin.php:1172
+#@ cbratingsystem
+msgid "Not Bad"
+msgstr "Nicht schlecht"
+
+#: cbratingsystem.php:1218
+#: cbratingsystem.php:1232
+#: cbratingsystem.php:1246
+#: class.CBRatingSystemAdmin.php:1172
+#@ cbratingsystem
+msgid "Good"
+msgstr "Gut"
+
+#: cbratingsystem.php:1219
+#: cbratingsystem.php:1233
+#: cbratingsystem.php:1247
+#: class.CBRatingSystemAdmin.php:1172
+#@ cbratingsystem
+msgid "Best"
+msgstr "Exzellent"
+
+#: cbratingsystem.php:1226
+#@ cbratingsystem
+msgid "Criteria 2"
+msgstr "Kriterium 2"
+
+#: cbratingsystem.php:1240
+#@ cbratingsystem
+msgid "Criteria 3"
+msgstr "Kriterium 3"
+
+#: cbratingsystem.php:1264
+#: class.CBRatingSystemAdminFormParts.php:290
+#@ cbratingsystem
+msgid "Sample Question Title 1"
+msgstr "Beispielfragentitel 1"
+
+#: cbratingsystem.php:1272
+#: cbratingsystem.php:1280
+#: cbratingsystem.php:1354
+#: cbratingsystem.php:1369
+#: cbratingsystem.php:1384
+#: cbratingsystem.php:1398
+#: cbratingsystem.php:1412
+#: cbratingsystem.php:1506
+#: cbratingsystem.php:1520
+#: cbratingsystem.php:1533
+#: cbratingsystem.php:1560
+#: cbratingsystem.php:1617
+#: cbratingsystem.php:1640
+#: cbratingsystem.php:1655
+#: class.CBRatingSystemAdminFormParts.php:170
+#: class.CBRatingSystemAdminFormParts.php:173
+#: class.CBRatingSystemAdminFormParts.php:229
+#: class.CBRatingSystemAdminFormParts.php:343
+#: class.CBRatingSystemAdminReport.php:288
+#: class.CBRatingSystemFront.php:2054
+#: class.CBRatingSystemFrontReview.php:481
+#@ cbratingsystem
+msgid "Yes"
+msgstr "Ja"
+
+#: cbratingsystem.php:1273
+#: cbratingsystem.php:1281
+#: cbratingsystem.php:1355
+#: cbratingsystem.php:1370
+#: cbratingsystem.php:1385
+#: cbratingsystem.php:1399
+#: cbratingsystem.php:1413
+#: cbratingsystem.php:1507
+#: cbratingsystem.php:1521
+#: cbratingsystem.php:1534
+#: cbratingsystem.php:1561
+#: cbratingsystem.php:1618
+#: cbratingsystem.php:1641
+#: cbratingsystem.php:1656
+#: class.CBRatingSystemAdminFormParts.php:171
+#: class.CBRatingSystemAdminFormParts.php:174
+#: class.CBRatingSystemAdminFormParts.php:230
+#: class.CBRatingSystemAdminFormParts.php:344
+#: class.CBRatingSystemFront.php:2054
+#: class.CBRatingSystemFrontReview.php:481
+#@ cbratingsystem
+msgid "No"
+msgstr "Nein"
+
+#: cbratingsystem.php:1274
+#: cbratingsystem.php:1282
+#: class.CBRatingSystemAdminFormParts.php:231
+#: class.CBRatingSystemAdminFormParts.php:345
+#@ cbratingsystem
+msgid "Correct"
+msgstr "Korrekt"
+
+#: cbratingsystem.php:1275
+#: cbratingsystem.php:1283
+#: class.CBRatingSystemAdminFormParts.php:232
+#: class.CBRatingSystemAdminFormParts.php:346
+#@ cbratingsystem
+msgid "Incorrect"
+msgstr "Inkorrekt"
+
+#: cbratingsystem.php:1276
+#: class.CBRatingSystemAdminFormParts.php:233
+#@ cbratingsystem
+msgid "None"
+msgstr "Keine"
+
+#: cbratingsystem.php:1307
+#@ cbratingsystem
+msgid "Allowed User Roles Who Can View Rating"
+msgstr "Benutzerrollen die Bewertungen sehen dürfen"
+
+#: cbratingsystem.php:1308
+#: cbratingsystem.php:1322
+#@ cbratingsystem
+msgid "Which user group can view rating"
+msgstr "Welche Benutzergruppen können Bewertungen sehen"
+
+#: cbratingsystem.php:1312
+#: cbratingsystem.php:1326
+#: cbratingsystem.php:1340
+#: cbratingsystem.php:1587
+#@ cbratingsystem
+msgid "Choose User Group ..."
+msgstr "Benutzergruppe wählen..."
+
+#: cbratingsystem.php:1317
+#@ cbratingsystem
+msgid "You must give access to at least one User Group who can View Rating"
+msgstr "Mindestens eine Benutzergruppe muss Bewertungen sehen können"
+
+#: cbratingsystem.php:1321
+#@ cbratingsystem
+msgid "Allowed User Roles Who Can View Rating Review"
+msgstr "Benutzerrollen die Bewertungs-Kommentare sehen dürfen"
+
+#: cbratingsystem.php:1331
+#@ cbratingsystem
+msgid "You must give access to at least one User Group who can View Comment"
+msgstr "Mindestens eine Benutzergruppe muss Kommentare sehen können"
+
+#: cbratingsystem.php:1335
+#@ cbratingsystem
+msgid "Enable Rating Moderation for User Group"
+msgstr "Aktiviere Bewertungsmoduration für Benutzergruppen"
+
+#: cbratingsystem.php:1336
+#@ cbratingsystem
+msgid "Which user groups comments will be reviewed."
+msgstr "Welche Benutzergruppe wird Kommentare reviewen"
+
+#: cbratingsystem.php:1348
+#@ cbratingsystem
+msgid "Comment required"
+msgstr "Kommentar wird benötigt"
+
+#: cbratingsystem.php:1349
+#@ cbratingsystem
+msgid "This option will make the comment box required"
+msgstr "Diese Option macht die Kommentarbox zum Pflichtfeld"
+
+#: cbratingsystem.php:1361
+#@ cbratingsystem
+msgid "Author Avatar in Review"
+msgstr "Autor-Avatar bei Bewertungen anzeigen"
+
+#: cbratingsystem.php:1362
+#@ cbratingsystem
+msgid "Show/hide reviewer's profile picture or avatar in review"
+msgstr "Zeige/Verberge das Profilbild in Bewertungen"
+
+#: cbratingsystem.php:1365
+#@ cbratingsystem
+msgid "Control reviewers's avatar"
+msgstr "Kontrollieren des Avatars des Bewerters"
+
+#: cbratingsystem.php:1376
+#@ cbratingsystem
+msgid "Show Author Link in Review"
+msgstr "Zeige Autoren-Link in der Bewertung"
+
+#: cbratingsystem.php:1377
+#@ cbratingsystem
+msgid "Link user to their author page in each review"
+msgstr "Verlinke in jeder Bewertung den Benutzer zu seiner Autoren-Seite"
+
+#: cbratingsystem.php:1390
+#@ cbratingsystem
+msgid "Show Editor Rating"
+msgstr "Zeige Editoren-Bewertungen"
+
+#: cbratingsystem.php:1391
+#@ cbratingsystem
+msgid "Show/hide rating editor user group rating"
+msgstr "Zeige/Verberge die Benutzergruppen-Bewertung des Bewertungs-Editors"
+
+#: cbratingsystem.php:1404
+#@ cbratingsystem
+msgid "Show/Hide Reviews"
+msgstr "Zeige/Verberge Bewertungen"
+
+#: cbratingsystem.php:1405
+#@ cbratingsystem
+msgid "Control showing reviews on frontend"
+msgstr "Kontrolliere angezeigte Bewertungen im Frontend"
+
+#: cbratingsystem.php:1408
+#: cbratingsystem.php:1472
+#: cbratingsystem.php:1502
+#: cbratingsystem.php:1516
+#: cbratingsystem.php:1529
+#: cbratingsystem.php:1542
+#: cbratingsystem.php:1556
+#: cbratingsystem.php:1613
+#: cbratingsystem.php:1637
+#: cbratingsystem.php:1651
+#@ cbratingsystem
+msgid "Enabled by default"
+msgstr "Aktiviere als Default"
+
+#: cbratingsystem.php:1418
+#@ cbratingsystem
+msgid "Review Limit Per Page"
+msgstr "Bewertungslimit pro Seite"
+
+#: cbratingsystem.php:1419
+#@ cbratingsystem
+msgid "How many reviews will be shown per page or in ajax request"
+msgstr "Wie viele Bewertungen sollen pro Seite oder in einem Ajax-Request gezeigt werden"
+
+#: cbratingsystem.php:1423
+#: cbratingsystem.php:1424
+#@ cbratingsystem
+msgid "Review Limit"
+msgstr "Bewertungslimit"
+
+#: cbratingsystem.php:1427
+#@ cbratingsystem
+msgid "Review Limit is required, must be numeric value"
+msgstr "Bewertungslimit wird benötigt. (Zahlenwert)"
+
+#: cbratingsystem.php:1455
+#@ cbratingsystem
+msgid "Form Title"
+msgstr "Formulartitel"
+
+#: cbratingsystem.php:1456
+#@ cbratingsystem
+msgid "Write form name"
+msgstr "Gebe einene Formularnamen ein"
+
+#: cbratingsystem.php:1458
+#@ cbratingsystem
+msgid "Example Rating Form"
+msgstr "Beispiel Bewertungsformular"
+
+#: cbratingsystem.php:1459
+#@ cbratingsystem
+msgid "Form Name"
+msgstr "Formularname"
+
+#: cbratingsystem.php:1460
+#@ cbratingsystem
+msgid "Rating Form Name"
+msgstr "Name des Bewertungsformular"
+
+#: cbratingsystem.php:1464
+#@ cbratingsystem
+msgid "Form title missing or empty, maximum length 500, minimum length 5"
+msgstr "Formulartitel fehlt. (min. 5, max. 500 Zeichen)"
+
+#: cbratingsystem.php:1468
+#@ cbratingsystem
+msgid "Form Status"
+msgstr "Formularstatus"
+
+#: cbratingsystem.php:1469
+#@ cbratingsystem
+msgid "Enable disable the form"
+msgstr "Aktiviere/Deaktiviere das Formular"
+
+#: cbratingsystem.php:1476
+#: class.CBRatingSystemAdmin.php:1355
+#: class.CBRatingSystemAdmin.php:1423
+#@ cbratingsystem
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: cbratingsystem.php:1477
+#: class.CBRatingSystemAdmin.php:1357
+#: class.CBRatingSystemAdmin.php:1423
+#: class.CBRatingSystemAdmin.php:1424
+#@ cbratingsystem
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: cbratingsystem.php:1483
+#@ cbratingsystem
+msgid "Post Type Selection"
+msgstr "Post Type-Auswahl"
+
+#: cbratingsystem.php:1484
+#@ cbratingsystem
+msgid "This form will work for the selected post types"
+msgstr "Dieses Formular wird bei den ausgewählten Post Types angezeigt"
+
+#: cbratingsystem.php:1489
+#@ cbratingsystem
+msgid "Post type selection, works with builtin or custom post types"
+msgstr "Post Type-Auswahl funktioniert mit den Standart- und Custom Post Types"
+
+#: cbratingsystem.php:1490
+#@ cbratingsystem
+msgid "Choose post type(s)..."
+msgstr "Wähle Post Type(s)..."
+
+#: cbratingsystem.php:1494
+#@ cbratingsystem
+msgid "Post type is missing or at least one post type must be selected"
+msgstr "Post Type fehlt. (min. ein Post Type muss ausgewählt sein)"
+
+#: cbratingsystem.php:1498
+#@ cbratingsystem
+msgid "Show on single post/page"
+msgstr "Zeige auf einzelnen Beiträgen/Seiten"
+
+#: cbratingsystem.php:1499
+#@ cbratingsystem
+msgid "Enable disable for single article"
+msgstr "Aktiviere/Deaktiviere für einzelne Beiträge"
+
+#: cbratingsystem.php:1512
+#@ cbratingsystem
+msgid "Show on Home/Frontpage"
+msgstr "Zeige auf der Startseite"
+
+#: cbratingsystem.php:1513
+#@ cbratingsystem
+msgid "Enable disable for home/frontpage"
+msgstr "Aktiviere/Deaktiviere für die Startseite"
+
+#: cbratingsystem.php:1525
+#@ cbratingsystem
+msgid "Show on Archives"
+msgstr "Zeige in Archiven"
+
+#: cbratingsystem.php:1526
+#@ cbratingsystem
+msgid "Enable disable for archive pages"
+msgstr "Aktiviere/Deaktiviere für Archiv-Seiten"
+
+#: cbratingsystem.php:1538
+#@ cbratingsystem
+msgid "Auto Integration"
+msgstr "Auto-Integration"
+
+#: cbratingsystem.php:1539
+#: cbratingsystem.php:1553
+#@ cbratingsystem
+msgid "Enable disable for shortcode"
+msgstr "Aktiviere/Deaktiviere Shortcodes"
+
+#: cbratingsystem.php:1546
+#@ cbratingsystem
+msgid "Top (Before Content)"
+msgstr "oben (vor dem Content)"
+
+#: cbratingsystem.php:1547
+#@ cbratingsystem
+msgid "Bottom (After Content)"
+msgstr "unten (nach dem Content)"
+
+#: cbratingsystem.php:1548
+#@ cbratingsystem
+msgid "Disable Auto Integration"
+msgstr "Deaktiviere Auto-Integration"
+
+#: cbratingsystem.php:1552
+#@ cbratingsystem
+msgid "Enable Shortcode"
+msgstr "Aktiviere Shortcode"
+
+#: cbratingsystem.php:1566
+#@ cbratingsystem
+msgid "Log user rating by ip or cookie or both to protect multiple rating, useful for guest rating"
+msgstr "Logge Benutzer-Bewertungen via IP, Cookie oder beides um Mehrfach-Bewertungen zu verhindern. Nützlich bei erlaubten Gäste-Bewertungen"
+
+#: cbratingsystem.php:1571
+#@ cbratingsystem
+msgid "Log user rating for guest using ip and cookie"
+msgstr "Logge Benutzer-Bewertungen für Gäste mit IP und Cookie"
+
+#: cbratingsystem.php:1572
+#@ cbratingsystem
+msgid "Choose logging method..."
+msgstr "Wähle eine Loggin-Methode"
+
+#: cbratingsystem.php:1576
+#@ cbratingsystem
+msgid "IP"
+msgstr "IP"
+
+#: cbratingsystem.php:1577
+#@ cbratingsystem
+msgid "Cookie"
+msgstr "Cookie"
+
+#: cbratingsystem.php:1579
+#@ cbratingsystem
+msgid "At least one logging method should be enabled"
+msgstr "Mindesten eine Logging-Methode sollte ausgewählt sein"
+
+#: cbratingsystem.php:1583
+#@ cbratingsystem
+msgid "Allowed User Roles Who Can Rate"
+msgstr "Benutzerrollen, die bewerten dürfen"
+
+#: cbratingsystem.php:1584
+#@ cbratingsystem
+msgid "Which user group can rate article with this Rating Form"
+msgstr "Welche Benutzergruppe kann mit diesem Formular Artikel bewerten"
+
+#: cbratingsystem.php:1592
+#: cbratingsystem.php:1605
+#@ cbratingsystem
+msgid "You must select one user group for Rating Editor user"
+msgstr "Mindestens eine Benutzergruppe muss als Bewerungs-Editor ausgewählt werden"
+
+#: cbratingsystem.php:1596
+#@ cbratingsystem
+msgid "Rating Editor User Group"
+msgstr "Bewertungs-Editor Benutzergruppe"
+
+#: cbratingsystem.php:1597
+#@ cbratingsystem
+msgid "Which group of user will be Rating Editor"
+msgstr "Welche Benutzergruppe ist Bewertungs-Editor"
+
+#: cbratingsystem.php:1600
+#@ cbratingsystem
+msgid "Choose Rating Editor User Group ..."
+msgstr "Wähle eine Bewertungs-Editor Benutzergruppe"
+
+#: cbratingsystem.php:1609
+#@ cbratingsystem
+msgid "Enable Comment"
+msgstr "Aktiviere Kommentare"
+
+#: cbratingsystem.php:1610
+#@ cbratingsystem
+msgid "Enable Comment with Rating"
+msgstr "Aktiviere Bewertungen mit Kommentaren"
+
+#: cbratingsystem.php:1622
+#@ cbratingsystem
+msgid "Comment Limit Length"
+msgstr "Kommentar-Limit"
+
+#: cbratingsystem.php:1623
+#@ cbratingsystem
+msgid "Comment limit length prevents user from submitting long comment"
+msgstr "Kommentar-Limit verhindert zu lange Kommentare"
+
+#: cbratingsystem.php:1627
+#@ cbratingsystem
+msgid "Comment text length limit"
+msgstr "Kommentartext-Limit"
+
+#: cbratingsystem.php:1628
+#@ cbratingsystem
+msgid "Comment Length"
+msgstr "Kommentar-Länge"
+
+#: cbratingsystem.php:1630
+#@ cbratingsystem
+msgid "Comment limit can not empty or must be numeric"
+msgstr "Kommentar-Limit kann nicht leer sein. (Zahlenwert)"
+
+#: cbratingsystem.php:1633
+#@ cbratingsystem
+msgid "Enable Question"
+msgstr "Aktiviere Fragen"
+
+#: cbratingsystem.php:1634
+#@ cbratingsystem
+msgid "Enable Question with Rating"
+msgstr "Aktiviere Bewertungen mit Fragen"
+
+#: cbratingsystem.php:1643
+#@ cbratingsystem
+msgid "Enable question field is missing or value must be 0 or 1"
+msgstr "Es gibt kein aktiviertes Fragenfeld. (Wert muss 0 oder 1 sein)"
+
+#: cbratingsystem.php:1647
+#@ cbratingsystem
+msgid "Show Credit"
+msgstr "Zeige Credits"
+
+#: cbratingsystem.php:1680
+#@ cbratingsystem
+msgid "Built in post types"
+msgstr "Standart Post Types"
+
+#: cbratingsystem.php:1729
+#: cbratingsystem.php:1740
+#: class.CBRatingSystemAdminReport.php:204
+#: class.CBRatingSystemAdminReport.php:514
+#: class.CBRatingSystemFront.php:19
+#: class.CBRatingSystemFront.php:30
+#@ cbratingsystem
+msgid "Guest"
+msgstr "Gast"
+
+#: cbratingsystem.php:1994
+#: cbratingsystem.php:2071
+#@ cbratingsystem
+msgid "Post: "
+msgstr "Beitrag: "
+
+#: cbratingsystem.php:1997
+#: cbratingsystem.php:2074
+#@ cbratingsystem
+msgid "Form: "
+msgstr "Formular: "
+
+#: cbratingsystem.php:2194
+#@ cbratingsystem
+msgid "Form id not found"
+msgstr "Formular-ID nicht gefunden"
+
+#: cbratingsystem.php:2205
+#@ cbratingsystem
+msgid "Post id not found"
+msgstr "Beitrags-ID nicht gefunden"
+
+#: class.CBRatingSystemAdmin.php:30
+#@ cbratingsystem
+msgid "Rating Forms"
+msgstr "Bewertungsformulare"
+
+#: class.CBRatingSystemAdmin.php:31
+#: class.CBRatingSystemAdmin.php:1369
+#@ cbratingsystem
+msgid "Add New Form"
+msgstr "Ein neues Formular hinzufügen"
+
+#: class.CBRatingSystemAdmin.php:32
+#@ cbratingsystem
+msgid "User Rating Logs"
+msgstr "Benutzer-Bewertungen"
+
+#: class.CBRatingSystemAdmin.php:33
+#@ cbratingsystem
+msgid "Rating Average"
+msgstr "Bewertungsdurchschnitt"
+
+#: class.CBRatingSystemAdmin.php:34
+#@ cbratingsystem
+msgid "Themes"
+msgstr "Themes"
+
+#: class.CBRatingSystemAdmin.php:35
+#@ cbratingsystem
+msgid "Tools"
+msgstr "Tools"
+
+#: class.CBRatingSystemAdmin.php:51
+#@ cbratingsystem
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: class.CBRatingSystemAdmin.php:159
+#: class.CBRatingSystemAdmin.php:297
+#@ cbratingsystem
+msgid "Edit/Add"
+msgstr "Bearbeiten/Hinzufügen"
+
+#: class.CBRatingSystemAdmin.php:176
+#: class.CBRatingSystemAdmin.php:314
+#: class.CBRatingSystemAdminDashboard.php:141
+#: class.CBRatingSystemTheme.php:178
+#: class.CBRatingSystemTool.php:62
+#@ cbratingsystem
+msgid "Plugin Information"
+msgstr "Plugin Informationen"
+
+#: class.CBRatingSystemAdmin.php:282
+#, php-format
+#@ cbratingsystem
+msgid "Form created/updated successfully. Form Id: %d"
+msgstr "Formular erfolgreich erstellt/hinzugefügt. Formular-ID: %d"
+
+#: class.CBRatingSystemAdmin.php:521
+#, php-format
+#@ cbratingsystem
+msgid " Field \"%s\" need to be numeric and can not be 0"
+msgstr " Das Feld \"%s\" benötigt einen numerischen Wert und kann nicht 0 sein"
+
+#: class.CBRatingSystemAdmin.php:529
+#, php-format
+#@ cbratingsystem
+msgid " Field \"%s\"  needs minimum length %d"
+msgstr " Das Feld \"%s\"  benötigt min. eine Länge von %d Zeichen"
+
+#: class.CBRatingSystemAdmin.php:537
+#, php-format
+#@ cbratingsystem
+msgid " Field \"%s\" maximum length allowed %d"
+msgstr " Das Feld \"%s\" dar max. %d Zeichen enthalten"
+
+#: class.CBRatingSystemAdmin.php:632
+#, php-format
+#@ cbratingsystem
+msgid "Criteria %d"
+msgstr "Kriterium %d"
+
+#: class.CBRatingSystemAdmin.php:642
+#@ cbratingsystem
+msgid "Star Title"
+msgstr "Sterne Titel"
+
+#: class.CBRatingSystemAdmin.php:659
+#@ cbratingsystem
+msgid "You must enable and name at least one criteria and have to choose at least one star from "
+msgstr "Für ein Sterne-Bewertungsformular muss mindestens ein Kriterium einen Namen erhalten und aktiviert werden "
+
+#: class.CBRatingSystemAdmin.php:659
+#: class.CBRatingSystemAdmin.php:666
+#: class.CBRatingSystemAdmin.php:674
+#: class.CBRatingSystemAdmin.php:824
+#: class.CBRatingSystemAdmin.php:1091
+#@ cbratingsystem
+msgid "Custom Criteria"
+msgstr "Kriterien anpassen"
+
+#: class.CBRatingSystemAdmin.php:666
+#@ default
+msgid "You must choose at least one STAR from "
+msgstr "Mindestens ein Stern muss ausgewählt werden"
+
+#: class.CBRatingSystemAdmin.php:674
+#@ cbratingsystem
+msgid "You must type at least one criteria name/label and have to choose at least one star from "
+msgstr "Für ein Sterne-Bewertungsformular muss mindestens ein Namen eingegeben und aktiviert werden "
+
+#: class.CBRatingSystemAdmin.php:758
+#@ cbratingsystem
+msgid "One of your question title field is empty"
+msgstr "Eins der Fragen-Felder hat keinen Titel"
+
+#: class.CBRatingSystemAdmin.php:798
+#@ cbratingsystem
+msgid "Form save failed. Please check all fields are filled properly."
+msgstr "Formular nicht gespeichert. Bitte prüfen, ob alle Felder richtig ausgefüllt sind."
+
+#: class.CBRatingSystemAdmin.php:823
+#@ cbratingsystem
+msgid "Generation Setting"
+msgstr "Grundeinstellungen"
+
+#: class.CBRatingSystemAdmin.php:825
+#@ cbratingsystem
+msgid "Custom Questions"
+msgstr "Fragen anpassen"
+
+#: class.CBRatingSystemAdmin.php:1065
+#@ cbratingsystem
+msgid "Save"
+msgstr "Speichern"
+
+#: class.CBRatingSystemAdmin.php:1091
+#@ cbratingsystem
+msgid "This field is required"
+msgstr "Dieses Feld wird benötigt"
+
+#: class.CBRatingSystemAdmin.php:1195
+#@ cbratingsystem
+msgid "Unlimited star in pro version"
+msgstr "Unbegrenzte Anzahl an Sternen in der Pro-Version"
+
+#: class.CBRatingSystemAdmin.php:1210
+#@ cbratingsystem
+msgid "Unlimited criteria in premium version"
+msgstr "Unbegrenzte Anzahl an Kriterien in der Pro-Version"
+
+#: class.CBRatingSystemAdmin.php:1215
+#@ cbratingsystem
+msgid "Rating Criteria(s) for this <strong>Rating Form</strog>. You can change the Criteria Labal and the Star Label/Hint. To edit Star Label/Hint, click on the default Label/Hint and after chaning click on outside of the field. You must enable/check at least one STAR for every enabled Criteria."
+msgstr "Bewertungskriterien für dieses <strong>Bewertungsformular</strog>. Der Name des Kriteriums kann geändert werden. Für eine Sterne-Bewertung muss mindestens ein Kriterium eingegeben und aktiviert werden."
+
+#: class.CBRatingSystemAdmin.php:1251
+#@ cbratingsystem
+msgid "Selected Form(s) Deleted"
+msgstr "Ausgewählte(s) Formular(e) gelöscht"
+
+#: class.CBRatingSystemAdmin.php:1253
+#@ cbratingsystem
+msgid "Failed to Delete Form(s)"
+msgstr "Fehler beim löschen der/des Formular(s)"
+
+#: class.CBRatingSystemAdmin.php:1262
+#@ cbratingsystem
+msgid "Form set as default"
+msgstr "Formular als Standart gesetzt"
+
+#: class.CBRatingSystemAdmin.php:1264
+#@ cbratingsystem
+msgid "Failed to save the form as default"
+msgstr "Fehler beim speicher des Formulars als Standart-Formular"
+
+#: class.CBRatingSystemAdmin.php:1354
+#@ cbratingsystem
+msgid "Disable This"
+msgstr "Deaktivieren"
+
+#: class.CBRatingSystemAdmin.php:1356
+#@ cbratingsystem
+msgid "Enable This"
+msgstr "Aktivieren"
+
+#: class.CBRatingSystemAdmin.php:1403
+#: class.CBRatingSystemAdminDashboard.php:83
+#: class.CBRatingSystemAdminDashboard.php:105
+#@ cbratingsystem
+msgid "ID"
+msgstr "ID"
+
+#: class.CBRatingSystemAdmin.php:1406
+#@ cbratingsystem
+msgid "Title/Name"
+msgstr "Titel/Name"
+
+#: class.CBRatingSystemAdmin.php:1409
+#@ cbratingsystem
+msgid "Status"
+msgstr "Status"
+
+#: class.CBRatingSystemAdmin.php:1414
+#@ cbratingsystem
+msgid "Criteria(s)"
+msgstr "Kriterien"
+
+#: class.CBRatingSystemAdmin.php:1415
+#@ cbratingsystem
+msgid "Action"
+msgstr "Aktion"
+
+#: class.CBRatingSystemAdmin.php:1424
+#, php-format
+#@ cbratingsystem
+msgid "Enabled    [cbratingsystem form_id=\"%d\"]"
+msgstr "Aktiviert    [cbratingsystem form_id=\"%d\"]"
+
+#: class.CBRatingSystemAdmin.php:1451
+#@ cbratingsystem
+msgid "Select Sample"
+msgstr "Beispiel auswählen"
+
+#: class.CBRatingSystemAdmin.php:1491
+#@ default
+msgid "Delete Logs Data"
+msgstr "Lösche Log-Daten"
+
+#: class.CBRatingSystemAdmin.php:1494
+#@ default
+msgid "Delete By:"
+msgstr "Löschen:"
+
+#: class.CBRatingSystemAdmin.php:1497
+#@ default
+msgid "Selected Items"
+msgstr "Ausgewählte Einträge"
+
+#: class.CBRatingSystemAdminDashboard.php:45
+#@ cbratingsystem
+msgid "Overview"
+msgstr "Übersicht"
+
+#: class.CBRatingSystemAdminDashboard.php:56
+#@ cbratingsystem
+msgid "Default"
+msgstr "Standart"
+
+#: class.CBRatingSystemAdminDashboard.php:59
+#: class.CBRatingSystemWidget.php:232
+#: class.CBRatingSystemWidget.php:609
+#@ cbratingsystem
+msgid "Form"
+msgstr "Formular"
+
+#: class.CBRatingSystemAdminDashboard.php:61
+#: class.CBRatingSystemAdminDashboard.php:73
+#@ cbratingsystem
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: class.CBRatingSystemAdminDashboard.php:73
+#@ cbratingsystem
+msgid "Review"
+msgstr "Bewertung"
+
+#: class.CBRatingSystemAdminFormParts.php:44
+#@ cbratingsystem
+msgid "Textbox"
+msgstr "Textfeld"
+
+#: class.CBRatingSystemAdminFormParts.php:44
+#@ cbratingsystem
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: class.CBRatingSystemAdminFormParts.php:44
+#@ cbratingsystem
+msgid "Radio"
+msgstr "Radio"
+
+#: class.CBRatingSystemAdminFormParts.php:46
+#@ cbratingsystem
+msgid "<p>Questions are optional. Each question can be set enabled or disabled, required. Three types of questions - Radio, Checkbox and textarea input can be created. Radio and checkbox question.</p>"
+msgstr "<p>Fragen sind optional. Jede Frage kann als aktiv, deaktiv oder Pflichtfeld gesetzt werden. Es gibt drei Arten von Fragetypen - Radio-Button, Checkboxen und Textfeld-Eingaben können erstellt werden.</p>"
+
+#: class.CBRatingSystemAdminFormParts.php:51
+#@ cbratingsystem
+msgid "Questions"
+msgstr "Fragen"
+
+#: class.CBRatingSystemAdminFormParts.php:55
+#@ cbratingsystem
+msgid "Question"
+msgstr "Frage"
+
+#: class.CBRatingSystemAdminFormParts.php:57
+#@ cbratingsystem
+msgid "Controls"
+msgstr "Einstellungen"
+
+#: class.CBRatingSystemAdminFormParts.php:58
+#@ cbratingsystem
+msgid "Field Type"
+msgstr "Feldtyp"
+
+#: class.CBRatingSystemAdminFormParts.php:59
+#@ cbratingsystem
+msgid "Field Display"
+msgstr "Anzeigefeld"
+
+#: class.CBRatingSystemAdminFormParts.php:118
+#@ cbratingsystem
+msgid "One Answer"
+msgstr "Einfache Antwort"
+
+#: class.CBRatingSystemAdminFormParts.php:122
+#@ cbratingsystem
+msgid "Multiple Answers"
+msgstr "Mehrfach-Antwort"
+
+#: class.CBRatingSystemAdmin.php:95
+#: class.CBRatingSystemAdminFormParts.php:158
+#: class.CBRatingSystemAdminFormParts.php:160
+#@ cbratingsystem
+msgid "Click to edit"
+msgstr "Klicken um zu ändern"
+
+#: class.CBRatingSystemAdmin.php:94
+#: class.CBRatingSystemAdminFormParts.php:160
+#: class.CBRatingSystemAdminFormParts.php:164
+#@ cbratingsystem
+msgid "Sample Question Title"
+msgstr "Beispiel-Frage"
+
+#: class.CBRatingSystemAdminFormParts.php:169
+#@ default
+msgid "Required Question ?"
+msgstr "Pflichtantwort"
+
+#: class.CBRatingSystemAdminFormParts.php:172
+#@ default
+msgid "Show Question ?"
+msgstr "Zeige Frage"
+
+#: class.CBRatingSystemAdminFormParts.php:192
+#@ cbratingsystem
+msgid "<p>Info: Unlimited Question available in pro version.</p>"
+msgstr "<p>Hinweis: Die Pro-Version erlaubt unlimitierte Fragen.</p>"
+
+#: class.CBRatingSystemAdminReport.php:136
+#@ cbratingsystem
+msgid "Saved"
+msgstr "Gespeichert"
+
+#: class.CBRatingSystemAdminReport.php:204
+#, php-format
+#@ cbratingsystem
+msgid "User%s"
+msgstr "Benutzer%s"
+
+#: class.CBRatingSystemAdminReport.php:454
+#@ cbratingsystem
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: class.CBRatingSystemAdminReport.php:588
+#@ cbratingsystem
+msgid "ID: "
+msgstr "ID: "
+
+#: class.CBRatingSystemAdminReport.php:596
+#@ cbratingsystem
+msgid "User Info: "
+msgstr "Benutzer-Info: "
+
+#: class.CBRatingSystemAdminReport.php:589
+#@ cbratingsystem
+msgid "Post Id: "
+msgstr "Beitrags-ID: "
+
+#: class.CBRatingSystemAdminReport.php:590
+#@ cbratingsystem
+msgid "Post Type: "
+msgstr "Post Type: "
+
+#: class.CBRatingSystemAdminReport.php:591
+#@ cbratingsystem
+msgid "Form Id: "
+msgstr "Formular-ID: "
+
+#: class.CBRatingSystemAdminReport.php:593
+#@ cbratingsystem
+msgid "Average Rating: "
+msgstr "Durchschn. Bewertungen"
+
+#: class.CBRatingSystemAdminReport.php:594
+#@ cbratingsystem
+msgid "Criteria Rating: "
+msgstr "Kriterium-Bewertung: "
+
+#: class.CBRatingSystemAdminReport.php:595
+#@ cbratingsystem
+msgid "Q/A: "
+msgstr "Frage/Antwort: "
+
+#: class.CBRatingSystemAdminReport.php:597
+#@ cbratingsystem
+msgid "Comment: "
+msgstr "Kommentar: "
+
+#: class.CBRatingSystemFront.php:266
+#: class.CBRatingSystemFront.php:723
+#@ cbratingsystem
+msgid "Ratings"
+msgstr "Bewertungen"
+
+#: class.CBRatingSystemFront.php:281
+#: class.CBRatingSystemFront.php:729
+#: class.CBRatingSystemFront.php:1141
+#@ cbratingsystem
+msgid "Current Average Ratings"
+msgstr "Durchschnittliche Bewertungen"
+
+#: class.CBRatingSystemFront.php:320
+#: class.CBRatingSystemFront.php:422
+#: class.CBRatingSystemFront.php:777
+#: class.CBRatingSystemFront.php:878
+#: class.CBRatingSystemFront.php:1157
+#: class.CBRatingSystemFront.php:1231
+#@ cbratingsystem
+msgid "custom_criterialabel"
+msgstr "Benutzerdefiniertes Kriterium"
+
+#: class.CBRatingSystemFront.php:327
+#: class.CBRatingSystemFront.php:354
+#: class.CBRatingSystemFront.php:782
+#: class.CBRatingSystemFront.php:822
+#: class.CBRatingSystemFront.php:883
+#: class.CBRatingSystemFront.php:910
+#: class.CBRatingSystemFront.php:1165
+#: class.CBRatingSystemFront.php:1190
+#@ cbratingsystem
+msgid "Avg"
+msgstr "durchschn."
+
+#: class.CBRatingSystemFront.php:349
+#: class.CBRatingSystemFront.php:463
+#: class.CBRatingSystemFront.php:513
+#: class.CBRatingSystemFront.php:816
+#: class.CBRatingSystemFront.php:905
+#: class.CBRatingSystemFront.php:952
+#: class.CBRatingSystemFront.php:1183
+#: class.CBRatingSystemFront.php:1263
+#@ cbratingsystem
+msgid "label"
+msgstr "Name"
+
+#: class.CBRatingSystemFront.php:365
+#: class.CBRatingSystemFront.php:833
+#: class.CBRatingSystemFront.php:837
+#: class.CBRatingSystemFront.php:926
+#: class.CBRatingSystemFront.php:1200
+#: class.CBRatingSystemFront.php:1203
+#@ cbratingsystem
+msgid "Total Avg Rating"
+msgstr "Durchschnittliche Bewertungen gesamt"
+
+#: class.CBRatingSystemFront.php:368
+#: class.CBRatingSystemFront.php:1288
+#@ cbratingsystem
+msgid "based on"
+msgstr "Basierend auf"
+
+#: class.CBRatingSystemFront.php:379
+#@ cbratingsystem
+msgid "Editor Avg. Rating "
+msgstr "Durchschnittliche Bewertungen Editor"
+
+#: class.CBRatingSystemFront.php:429
+#: class.CBRatingSystemFront.php:468
+#: class.CBRatingSystemFront.php:1238
+#: class.CBRatingSystemFront.php:1270
+#@ cbratingsystem
+msgid "Avg "
+msgstr "durchschn. "
+
+#: class.CBRatingSystemFront.php:439
+#: class.CBRatingSystemFront.php:851
+#: class.CBRatingSystemFront.php:892
+#: class.CBRatingSystemFront.php:1247
+#@ cbratingsystem
+msgid "Editors Average Rating"
+msgstr "Durchschnittliche Bewertungen des Editor"
+
+#: class.CBRatingSystemFront.php:479
+#@ cbratingsystem
+msgid "Total Avg. Rating "
+msgstr "Durchschnittliche Bewertungen gesamt "
+
+#: class.CBRatingSystemFront.php:541
+#@ cbratingsystem
+msgid "Required Field"
+msgstr "Pflichtfeld"
+
+#: class.CBRatingSystemFront.php:582
+#@ cbratingsystem
+msgid "Comment/Note:"
+msgstr "Kommentar/Hinweis:"
+
+#: class.CBRatingSystemFront.php:623
+#@ cbratingsystem
+msgid "Submit"
+msgstr "Bewerten"
+
+#: class.CBRatingSystemFront.php:624
+#: class.CBRatingSystemFrontReview.php:555
+#@ cbratingsystem
+msgid "Loading"
+msgstr "Laden"
+
+#: class.CBRatingSystemFront.php:270
+#: class.CBRatingSystemFront.php:275
+#@ cbratingsystem
+msgid "Rate this"
+msgstr "Bewerten"
+
+#: class.CBRatingSystemFront.php:1135
+#@ cbratingsystem
+msgid "Rating"
+msgstr "Bewertung"
+
+#: class.CBRatingSystemFront.php:1286
+#@ cbratingsystem
+msgid "Total Avg Rating "
+msgstr "Durchschn. Bewertungen ges."
+
+#: class.CBRatingSystemFront.php:1322
+#@ cbratingsystem
+msgid "Login"
+msgstr "Anmeldung"
+
+#: class.CBRatingSystemFront.php:1322
+#@ cbratingsystem
+msgid "login"
+msgstr "anmelden"
+
+#: class.CBRatingSystemFront.php:1323
+#, php-format
+#@ cbratingsystem
+msgid "Please %s to rate"
+msgstr "Bitte %s um zu bewerten"
+
+#: class.CBRatingSystemFront.php:1327
+#@ cbratingsystem
+msgid "You are not allowed to rate."
+msgstr "Dir ist es nicht erlaubt, hier zu bewerten."
+
+#: class.CBRatingSystemFront.php:1366
+#: class.CBRatingSystemFront.php:2158
+#@ cbratingsystem
+msgid "Click to cancel given rating"
+msgstr "Klick um die abgegebene Bewertung zu verwerfen"
+
+#: class.CBRatingSystemFront.php:1369
+#@ cbratingsystem
+msgid "Thank you for rating"
+msgstr "Vielen Dank für die Bewertung"
+
+#: class.CBRatingSystemFront.php:1370
+#@ cbratingsystem
+msgid "Please rate to all criteria"
+msgstr "Bitte alle Kriterien bewerten"
+
+#: class.CBRatingSystemFront.php:1371
+#@ cbratingsystem
+msgid "Please fill all required fields"
+msgstr "Bitte alle Plichtfelder ausfüllen"
+
+#: class.CBRatingSystemFront.php:1372
+#@ cbratingsystem
+msgid "Rating save error"
+msgstr "Fehler beim speichern der Bewertung"
+
+#: class.CBRatingSystemFront.php:1513
+#@ cbratingsystem
+msgid "Name field can't be left blank."
+msgstr "Das Feld 'Name' darf nicht leer sein."
+
+#: class.CBRatingSystemFront.php:1572
+#@ cbratingsystem
+msgid "Please enter a valid email address."
+msgstr "Bitte eine gültige eMai-Adresse eingeben"
+
+#: class.CBRatingSystemFront.php:1650
+#@ cbratingsystem
+msgid "Verify Your email"
+msgstr "Bestätige deine eMail-Adresse"
+
+#: class.CBRatingSystemFront.php:1666
+#@ cbratingsystem
+msgid " has rated this post "
+msgstr " haben diesen Beitrag bewertet. "
+
+#: class.CBRatingSystemFront.php:1812
+#@ cbratingsystem
+msgid "You have already rated this."
+msgstr "Du has das schon bewertet."
+
+#: class.CBRatingSystemFront.php:1821
+#@ cbratingsystem
+msgid "An error occurred while storing data. Please ensure that all data are resonable. If problem persist please contact the administrator."
+msgstr "Ein Fehler beim speichern der Daten ist aufgetreten. Sind alle Daten korrekt? Sollte das Problem weiterhin auftreten, bitte den Administrator kontaktieren."
+
+#: class.CBRatingSystemFront.php:2181
+#@ cbratingsystem
+msgid "An error occurred while processing the data. Please ensure that all data are resonable. If problem persist please contact the administrator."
+msgstr "Ein Fehler beim verarbeiten der Daten ist aufgetreten. Sind alle Daten korrekt? Sollte das Problem weiterhin auftreten, bitte den Administrator kontaktieren."
+
+#: class.CBRatingSystemFrontReview.php:295
+#, php-format
+#@ cbratingsystem
+msgid "Reviews (%d)"
+msgstr "Bewertungen (%d)"
+
+#: class.CBRatingSystemFrontReview.php:554
+#@ cbratingsystem
+msgid "Load More"
+msgstr "mehr..."
+
+#: class.CBRatingSystemFrontReview.php:596
+#@ cbratingsystem
+msgid "Cancel rating"
+msgstr "Bewertung abbrechen"
+
+#: class.CBRatingSystemFrontReview.php:619
+#@ cbratingsystem
+msgid "Failed to load, please refresh this page."
+msgstr "Fehler beim laden. Bitte die Seite erneut aufrufen."
+
+#: class.CBRatingSystemFrontReview.php:620
+#@ cbratingsystem
+msgid "All loaded, you are at end."
+msgstr "Alles geladen. Du hast es geschafft."
+
+#: class.CBRatingSystemMetaBox.php:11
+#@ cbratingsystem
+msgid "Rating Form Options"
+msgstr "Bewertungsformular Einstellungen"
+
+#: class.CBRatingSystemMetaBox.php:82
+#: class.CBRatingSystemMetaBox.php:84
+#@ cbratingsystem
+msgid "--Select rating form--"
+msgstr "--Wähle ein Bewertungsformular--"
+
+#: class.CBRatingSystemMetaBox.php:90
+#: class.CBRatingSystemWidget.php:242
+#: class.CBRatingSystemWidget.php:634
+#@ cbratingsystem
+msgid "Default Form"
+msgstr "Standart-Formular"
+
+#: class.CBRatingSystemTheme.php:80
+#@ cbratingsystem
+msgid "Theme Option"
+msgstr "Theme-Einstellungen"
+
+#: class.CBRatingSystemTheme.php:99
+#: class.CBRatingSystemTheme.php:152
+#@ cbratingsystem
+msgid "Choose Theme"
+msgstr "Wähle ein Theme"
+
+#: class.CBRatingSystemTheme.php:106
+#: class.CBRatingSystemTheme.php:152
+#@ cbratingsystem
+msgid "Basic Theme"
+msgstr "Basic Theme"
+
+#: class.CBRatingSystemTool.php:21
+#@ cbratingsystem
+msgid "Codeboxr Rating System Tools"
+msgstr "Codeboxr Bewertungssystem - Tools"
+
+#: class.CBRatingSystemTool.php:110
+#: class.CBRatingSystemTool.php:182
+#@ cbratingsystem
+msgid "Save Option"
+msgstr "Einstellungen sichern"
+
+#: class.CBRatingSystemTool.php:117
+#@ cbratingsystem
+msgid "Uninstall setting saved!"
+msgstr "Deinstallationseinstellungen gespeichert"
+
+#: class.CBRatingSystemTool.php:123
+#: class.CBRatingSystemTool.php:189
+#@ cbratingsystem
+msgid "Reset All"
+msgstr "Alles zurücksetzen"
+
+#: class.CBRatingSystemTool.php:132
+#@ cbratingsystem
+msgid "Reset done!"
+msgstr "Zurücksetzen erfolgreich!"
+
+#: class.CBRatingSystemTool.php:142
+#@ cbratingsystem
+msgid "Options and Tables"
+msgstr "Einstellungen und Tabellen"
+
+#: class.CBRatingSystemTool.php:148
+#@ cbratingsystem
+msgid "Rating Options"
+msgstr "Bewertungsoptionen"
+
+#: class.CBRatingSystemTool.php:149
+#@ cbratingsystem
+msgid "Rating Tables"
+msgstr "Bewertungstabelle"
+
+#: class.CBRatingSystemTool.php:164
+#@ cbratingsystem
+msgid "Rating Summary Table"
+msgstr "Bewertungszusammenfassung"
+
+#: class.CBRatingSystemTool.php:165
+#@ cbratingsystem
+msgid "User Rating Table"
+msgstr "Benutzerbewertungs-Tabelle"
+
+#: class.CBRatingSystemTool.php:166
+#@ cbratingsystem
+msgid "Rating Form Table"
+msgstr "Bewertungsformular-Tabelle"
+
+#: class.CBRatingSystemTool.php:179
+#@ cbratingsystem
+msgid "Delete All options and tables related with this plugin on uninstall/delete"
+msgstr "Lösche ALLE Einstellungen und Daten des PlugIns zur deinstallation."
+
+#: class.CBRatingSystemTool.php:187
+#@ cbratingsystem
+msgid "Reset Setting"
+msgstr "Einstellungen zurücksetzen"
+
+#: class.CBRatingSystemTool.php:189
+#@ cbratingsystem
+msgid ""
+"You are about to reset all previous settings of this plugin .\n"
+"This action is not reversible.\n"
+"\n"
+" Choose [Cancel] to stop, [OK] to reset."
+msgstr ""
+"Alle Einstellungen des Plugins werden zurückgesetzt.\n"
+"Dieser Vorgang kann nicht rückgängig gemacht werden.\n"
+"\n"
+" Wähle [Cancel] um abzubrechen oder [OK] um das Plugin zurückzusetzen."
+
+#: class.CBRatingSystemTool.php:195
+#@ cbratingsystem
+msgid "This will delete all tables and options created by this plugin. You will get a fresh Rating system to use as first time install. This process can not be undone."
+msgstr "Das wird ALLE Einstellungen und Daten des PlugIns löschen. Du erhältst eine neues Bewertungssystem wie bei einer Erstinstallation. Dieser Vorgang kann nicht rückgängig gemacht werden."
+
+#: class.CBRatingSystemWidget.php:14
+#@ cbratingsystem
+msgid "A widget to display top rated posts, pages or custom post types."
+msgstr "Ein Widget der Top bewerteten Beiträge, Seiten oder Custom Post Types."
+
+#: class.CBRatingSystemWidget.php:71
+#: class.CBRatingSystemWidget.php:121
+#: class.CBRatingSystemWidget.php:131
+#: class.CBRatingSystemWidget.php:356
+#@ cbratingsystem
+msgid "Top Rated Posts"
+msgstr "Top bewertete Beiträge"
+
+#: class.CBRatingSystemWidget.php:137
+#: class.CBRatingSystemWidget.php:466
+#@ cbratingsystem
+msgid "Title"
+msgstr "Titel"
+
+#: class.CBRatingSystemWidget.php:142
+#: class.CBRatingSystemWidget.php:480
+#@ cbratingsystem
+msgid "Display Last"
+msgstr "Zeige letzte"
+
+#: class.CBRatingSystemWidget.php:147
+#: class.CBRatingSystemWidget.php:486
+#@ cbratingsystem
+msgid "Last 24 hours"
+msgstr "lezte 24 Stunden"
+
+#: class.CBRatingSystemWidget.php:147
+#: class.CBRatingSystemWidget.php:486
+#@ cbratingsystem
+msgid "Last 7 Days"
+msgstr "letzte 7 Tage"
+
+#: class.CBRatingSystemWidget.php:147
+#: class.CBRatingSystemWidget.php:486
+#@ cbratingsystem
+msgid "Last 15 Days"
+msgstr "letzte 15 Tage"
+
+#: class.CBRatingSystemWidget.php:147
+#: class.CBRatingSystemWidget.php:486
+#@ cbratingsystem
+msgid "Last 30 days"
+msgstr "letzte 30 Tage"
+
+#: class.CBRatingSystemWidget.php:147
+#: class.CBRatingSystemWidget.php:486
+#@ cbratingsystem
+msgid "All Time"
+msgstr "alles"
+
+#: class.CBRatingSystemWidget.php:160
+#: class.CBRatingSystemWidget.php:498
+#@ cbratingsystem
+msgid "Note: Based on Post creation date"
+msgstr "Hinweis: Basierend auf dem Erstellungsdatum des Beitrags"
+
+#: class.CBRatingSystemWidget.php:162
+#@ cbratingsystem
+msgid "Count:"
+msgstr "Anzahl:"
+
+#: class.CBRatingSystemWidget.php:168
+#: class.CBRatingSystemWidget.php:515
+#@ cbratingsystem
+msgid "Post Type"
+msgstr "Beitragstyp"
+
+#: class.CBRatingSystemWidget.php:191
+#: class.CBRatingSystemWidget.php:565
+#@ cbratingsystem
+msgid "Order"
+msgstr "Sortierung"
+
+#: class.CBRatingSystemWidget.php:195
+#@ cbratingsystem
+msgid "Ascending"
+msgstr "aufsteigend"
+
+#: class.CBRatingSystemWidget.php:195
+#@ cbratingsystem
+msgid "Descending"
+msgstr "absteigend"
+
+#: class.CBRatingSystemWidget.php:305
+#@ cbratingsystem
+msgid "A widget to display top rated user."
+msgstr "Ein Widget der Top bewerteten Benutzer"
+
+#: class.CBRatingSystemWidget.php:473
+#@ cbratingsystem
+msgid "User Ids ('Blank or comma separate ids ) "
+msgstr "Benutzer-IDs ('Leer lassen oder mit Komma getrennte IDs') "
+
+#: class.CBRatingSystemWidget.php:508
+#@ cbratingsystem
+msgid "Post Ids ('Blank or comma separate ids ) "
+msgstr "Beitrags-IDs ('Leer lassen oder mit Komma getrennte IDs') "
+
+#: class.CBRatingSystemWidget.php:544
+#@ cbratingsystem
+msgid "Post Filter"
+msgstr "Beitragsfilter"
+
+#: class.CBRatingSystemWidget.php:585
+#@ cbratingsystem
+msgid "First Sort By"
+msgstr "Zuerst sortieren nach"
+
+#: data.php:909
+#@ cbratingsystem
+msgid "No more forms for free version"
+msgstr "In der Free-Version sind keine weiteren Formulare möglich"
+
+#: cb-sidebar.php:67
+#@ cbratingsystem
+msgid "Codeboxr Networks"
+msgstr ""
+
+#: cb-sidebar.php:68
+#@ cbratingsystem
+msgid "Html, Wordpress & Joomla Themes"
+msgstr ""
+
+#: cb-sidebar.php:71
+#@ cbratingsystem
+msgid "Wordpress Plugins"
+msgstr ""
+
+#: cbratinglogreportoutput.php:31
+#@ cbratingsystem
+msgid "CBX Rating & Review: Average Rating Logs"
+msgstr ""
+
+#: cbratingsystem.php:480
+#@ cbratingsystem
+msgid "No Rating"
+msgstr ""
+
+#: cbratingsystem.php:731
+#: class.CBRatingSystemWidget.php:371
+#@ cbratingsystem
+msgid "Posts"
+msgstr ""
+
+#: cbratingsystem.php:1565
+#@ cbratingsystem
+msgid "Logging Method"
+msgstr ""
+
+#: cbratingsystem.php:1648
+#@ cbratingsystem
+msgid "This will show a small link under rating form to codeboxr.com"
+msgstr ""
+
+#: cbratingsystem.php:1941
+#@ cbratingsystem
+msgid "bad"
+msgstr ""
+
+#: cbratingsystem.php:1941
+#@ cbratingsystem
+msgid "poor"
+msgstr ""
+
+#: cbratingsystem.php:1941
+#@ cbratingsystem
+msgid "regular"
+msgstr ""
+
+#: cbratingsystem.php:1941
+#@ cbratingsystem
+msgid "good"
+msgstr ""
+
+#: cbratingsystem.php:1941
+#@ cbratingsystem
+msgid "gorgeous"
+msgstr ""
+
+#: class.CBRatingSystemAdmin.php:147
+#@ cbratingsystem
+msgid "CBX Rating & Review: Form Listing"
+msgstr ""
+
+#: class.CBRatingSystemAdmin.php:278
+#@ cbratingsystem
+msgid "CBX Rating & Review: Form Edit /Add"
+msgstr ""
+
+#: class.CBRatingSystemAdmin.php:1375
+#, php-format
+#@ cbratingsystem
+msgid "Note: <a href=\"%s\" class=\"button\" target=\"_blank\">Upgrade</a> to Premium Version to add more forms"
+msgstr ""
+
+#: class.CBRatingSystemAdmin.php:1399
+#@ cbratingsystem
+msgid "Select All"
+msgstr ""
+
+#: class.CBRatingSystemAdmin.php:1412
+#@ cbratingsystem
+msgid "Shortcode Tag"
+msgstr ""
+
+#: class.CBRatingSystemAdmin.php:1426
+#@ cbratingsystem
+msgid "No Criteria"
+msgstr ""
+
+#: class.CBRatingSystemAdminDashboard.php:32
+#@ cbratingsystem
+msgid "CBX Rating & Review: Multi Criteria Rating System Dashboard"
+msgstr ""
+
+#: class.CBRatingSystemAdminReport.php:179
+#@ cbratingsystem
+msgid "CBX Rating & Review: User Rating Logs"
+msgstr ""
+
+#: class.CBRatingSystemAdminReport.php:440
+#@ cbratingsystem
+msgid "User Name"
+msgstr ""
+
+#: class.CBRatingSystemAdminReport.php:441
+#@ cbratingsystem
+msgid "User Email"
+msgstr ""
+
+#: class.CBRatingSystemAdminReport.php:442
+#@ cbratingsystem
+msgid "User IP"
+msgstr ""
+
+#: class.CBRatingSystemAdminReport.php:592
+#@ cbratingsystem
+msgid "User Id: "
+msgstr ""
+
+#: class.CBRatingSystemFront.php:304
+#: class.CBRatingSystemFront.php:408
+#: class.CBRatingSystemFront.php:762
+#: class.CBRatingSystemFront.php:864
+#@ cbratingsystem
+msgid "title"
+msgstr ""
+
+#: class.CBRatingSystemFront.php:367
+#: class.CBRatingSystemFront.php:835
+#: class.CBRatingSystemFront.php:1205
+#@ cbratingsystem
+msgid "with"
+msgstr ""
+
+#: class.CBRatingSystemFront.php:481
+#: class.CBRatingSystemFront.php:836
+#: class.CBRatingSystemFront.php:839
+#: class.CBRatingSystemFront.php:928
+#: class.CBRatingSystemFront.php:1202
+#: class.CBRatingSystemFront.php:1206
+#@ cbratingsystem
+msgid "based on "
+msgstr ""
+
+#: class.CBRatingSystemFront.php:572
+#@ cbratingsystem
+msgid "This field is required."
+msgstr ""
+
+#: class.CBRatingSystemFront.php:271
+#: class.CBRatingSystemFront.php:274
+#@ cbratingsystem
+msgid "Summary"
+msgstr ""
+
+#: class.CBRatingSystemFront.php:647
+#: class.CBRatingSystemFront.php:1016
+#: class.CBRatingSystemFront.php:1307
+#@ cbratingsystem
+msgid "Rating System by WPBoxr"
+msgstr ""
+
+#: class.CBRatingSystemFrontReview.php:359
+#@ cbratingsystem
+msgid "Anonymous"
+msgstr ""
+
+#: class.CBRatingSystemFrontReview.php:377
+#, php-format
+#@ cbratingsystem
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: class.CBRatingSystemFront.php:366
+#: class.CBRatingSystemFront.php:1204
+#: class.CBRatingSystemFrontReview.php:378
+#@ cbratingsystem
+msgid "out of"
+msgstr ""
+
+#: class.CBRatingSystemTheme.php:56
+#@ cbratingsystem
+msgid "Theme setting saved successfully"
+msgstr ""
+
+#: class.CBRatingSystemTheme.php:58
+#@ cbratingsystem
+msgid "Error saving theme setting"
+msgstr ""
+
+#: class.CBRatingSystemTheme.php:67
+#@ cbratingsystem
+msgid "CBX Rating & Review: Theme Settings"
+msgstr ""
+
+#: class.CBRatingSystemTool.php:33
+#@ cbratingsystem
+msgid "CBX Rating & Review:  System Tools"
+msgstr ""
+
+#: class.CBRatingSystemWidget.php:14
+#@ cbratingsystem
+msgid "CBX Rating: Top Rated Posts"
+msgstr ""
+
+#: class.CBRatingSystemWidget.php:305
+#@ cbratingsystem
+msgid "CBX Rating: Top Rated User"
+msgstr ""
+
+#: class.CBRatingSystemWidget.php:501
+#@ cbratingsystem
+msgid "No. To Display"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "second"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "minute"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "hour"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "day"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "week"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "month"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "year"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "decade"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:108
+#@ cbratingsystem
+msgid "age"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:117
+#@ cbratingsystem
+msgid "just now"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:121
+#@ cbratingsystem
+msgid "ago"
+msgstr ""
+
+#: CBRatingSystemFunctions.php:125
+#@ cbratingsystem
+msgid "later"
+msgstr ""
+
+#: cb-sidebar.php:26
+#@ cbxwpsimpleaccounting
+msgid "WPBoxr Other Plugins"
+msgstr ""
+
+#: cbratingsystem.php:659
+#@ cbratingsystem
+msgid "Rating:"
+msgstr ""
+
+#: cbratingsystem.php:1380
+#@ cbratingsystem
+msgid "Control reviewers's link"
+msgstr ""
+
+#: cbratingsystem.php:1394
+#@ cbratingsystem
+msgid "Which user group is rating editor is selectable"
+msgstr ""
+
+#: class.CBRatingSystemFront.php:368
+#: class.CBRatingSystemFront.php:481
+#: class.CBRatingSystemFront.php:836
+#: class.CBRatingSystemFront.php:928
+#: class.CBRatingSystemFront.php:1206
+#: class.CBRatingSystemFront.php:1288
+#@ cbratingsystem
+msgid "rating(s)"
+msgstr ""
+
+#: class.CBRatingSystemFront.php:1218
+#@ cbratingsystem
+msgid "Editor Avg Rating "
+msgstr ""
+
+#: class.CBRatingSystemFront.php:1538
+#@ cbratingsystem
+msgid "Sorry, this email address is associated with a registered user and can not be use for guest voting."
+msgstr ""
+
+#: class.CBRatingSystemFront.php:1543
+#@ cbratingsystem
+msgid "Invalid Email addresss"
+msgstr ""
+
+#: class.CBRatingSystemFront.php:1548
+#@ cbratingsystem
+msgid "Email field can't be empty"
+msgstr ""
+
